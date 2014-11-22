@@ -1,0 +1,17 @@
+.sub_content {
+	box-sizing: border-box;
+	color: rgb(90, 90, 90);
+	display: block;
+	float: left;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	height: 357px;
+	line-height: 20px;
+	margin-bottom: 20px;
+	min-height: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+	position: relative;
+	text-align: center;
+	width: 585px;
+}
