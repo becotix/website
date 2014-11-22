@@ -3,7 +3,6 @@ body {
   padding-bottom: 40px;
   background-color: #eee;
 }
-.form-signin-heading { margin-top:15%; }
 
 .form-signin {
   max-width: 330px;
