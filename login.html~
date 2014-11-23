@@ -61,8 +61,7 @@
 
       </div>
     </div>
- <!-- SIGN IN FIELDS
-================================================== --> 
+  
     <div class="container">
 
       <form class="form-signin" role="form">
