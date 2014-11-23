@@ -41,6 +41,7 @@ body {
   border-top-right-radius: 0;
 }
 
+
 footer { 
   	clear:both;
   	margin: 0 25% 0 25%;

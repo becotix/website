@@ -8,8 +8,8 @@
 	max-height: 400px;
 	line-height: 20px;
 	min-height: 1px;
-	margin: 3% auto;
-	padding: 0 15px;
+	margin: 0 auto 5% auto;
+	padding: 5px 15px;
 	position: relative;
 	text-align: center;
 	min-width: 300px;
