@@ -3,6 +3,7 @@ body {
   padding-bottom: 40px;
   background-color: #eee;
 }
+.navbar-wrapper { margin-left: -1%; }
 .form-signin-heading { margin-top:15%; }
 
 .form-signin {
@@ -38,4 +39,10 @@ body {
   margin-bottom: 10px;
   border-top-left-radius: 0;
   border-top-right-radius: 0;
+}
+
+
+footer { 
+  	clear:both;
+  	margin: 0 25% 0 25%;
 }
