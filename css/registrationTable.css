@@ -5,13 +5,6 @@ body {
 }
 .form-signin-heading { margin-top:6%; }
 
-.form-control {
-	    float: left;
-	    width: 23%;
-	    height: 100px;
-	    margin: 5px;
-}
-
 .form-signin {
   min-width: 20%;
   max-width: 70%;
@@ -37,3 +30,10 @@ body {
 .form-signin .form-control:focus {
   z-index: 2;
 }
+
+.form-signin input {
+	margin-bottom: 1%;
+	min-width: 150px;
+	max-width: 768px;
+}
+#csv-number { margin-bottom: 3%; }
